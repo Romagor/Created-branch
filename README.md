@@ -16,9 +16,5 @@
 2. Издательство «Читый лист»
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
-```css
-.selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
-```
+ 
+```css .selector { font-family: "Awesome", Arial, sans-serif; color: red; }```
